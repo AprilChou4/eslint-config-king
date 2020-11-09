@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-king",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "https://github.com/AprilChou4/eslint-config-king.git"
   },
   "keywords": [
-    "eslint","prettier","config"
+    "eslint",
+    "prettier",
+    "config"
   ],
   "author": "AprilChou",
   "license": "ISC"
